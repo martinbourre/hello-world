@@ -1,7 +1,7 @@
 #p1{
-background-color:"blue";
+background-color:blue;
 }
 
 #p3{
-background-color:"#DB1702";
+background-color:red;
 }
